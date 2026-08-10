@@ -19,14 +19,19 @@ h3{
     font-size: 20px;
 }
 .description{
-    height: 80px;
+    height: 100px;
 }
 #sub{
     line-height: 2rem;
 }
 #headshot{
-    width: 250px;
+    width: 300px;
     height: auto;
+}
+.bio{
+    margin: 1rem;
+    padding: 0.25rem;
+    max-width: 600px;
 }
 section{
     margin-top: 4rem;
